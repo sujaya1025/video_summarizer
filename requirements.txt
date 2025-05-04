@@ -3,4 +3,5 @@ transformers
 torch
 whisper
 moviepy
+ffmpeg
 ffmpeg-python
