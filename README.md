@@ -59,7 +59,7 @@ streamlit run streamlit_app.py
 ```
 
 ## How to use?
-- **Upload a video file:**Choose a video file (e.g., .mp4 or .mov) from your local machine.
+- **Upload a video file:** Choose a video file (e.g., .mp4 or .mov) from your local machine.
 - **Generate Summary:** Click "Generate Summary"
 - The summary will be displayed below the button.
   
